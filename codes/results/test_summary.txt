@@ -1,0 +1,5 @@
+Total samples processed: 1
+Average PSNR: 25.3116
+Average SSIM: 0.8116
+Average MSE: 0.0029
+Average MAE: 0.0415

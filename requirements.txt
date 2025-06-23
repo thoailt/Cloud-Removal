@@ -1,0 +1,9 @@
+matplotlib==3.10.3
+pandas==2.3.0
+pillow==10.2.0
+rasterio==1.4.3
+requests==2.32.3
+scipy==1.14.1
+timm==1.0.12
+tqdm==4.67.1
+wandb==0.20.1
